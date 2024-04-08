@@ -1,8 +1,8 @@
-Recommendation System - Part I¶
-Product popularity based recommendation system targeted at new customers
-Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
-Dataset : Amazon product review dataset
-Importing libraries¶
+#Recommendation System - Part I¶
+#Product popularity based recommendation system targeted at new customers
+#Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
+#Dataset : Amazon product review dataset
+#Importing libraries¶
 
 import numpy as np
 import pandas as pd
